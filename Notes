@@ -1,0 +1,10 @@
+Using with React.createElement and creating element with this way is a part of core react.
+But using this way it makes our code very complex.
+So we avoid this way.
+Instead of this we use JSX.
+
+Can we write code without JSX?
+Yes, By using React.createElement.
+But this makes our code very complex so we don't write using it.
+But this is core react.
+And JSX makes our life easy.
